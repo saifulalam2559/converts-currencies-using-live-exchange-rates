@@ -32,3 +32,6 @@ fetch(apiUrl)
   .catch(err => {
     console.error("Currency conversion error:", err.message);
   });
+
+
+//Improve validation and error handling in currency converter
